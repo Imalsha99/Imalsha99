@@ -1,6 +1,6 @@
  <h1 align="center">
   <a target="_blank">
-    <img src="https://dribbble.com/shots/7466903-Hello-Dribbble/attachments/307954?mode=media" width="24px" style="max-width:100%;">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
   </a>
    &lt;   𝐇𝐞𝐥𝐥𝐨 there 𝚌𝚘𝚍𝚎𝚛𝚜, I am Imalsha Liyanage/&gt;!
   <a target="_blank">
