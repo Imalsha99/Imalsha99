@@ -95,9 +95,9 @@ Connect with me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
  
-  ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)    <br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Imalsha99&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)    <br/>
  <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
