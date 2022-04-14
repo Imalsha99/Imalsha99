@@ -47,7 +47,7 @@ Connect with me:
       <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Imalsha Liyanage" height="30" width="40"/>
       </a>
   <a href="https://medium.com/@ImalshaLiyanage">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Imalsha Liyanage|Medium" height="30" width="30"/>
   </a>
  <a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
   <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Imalsha Liyanage | Twitter" height="30" width="40" />
