@@ -105,7 +105,7 @@ Connect with me:
  </td>
   <td width="50%" align="center">
  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)
   </td>
 </tr>
 </table>
