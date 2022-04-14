@@ -49,7 +49,9 @@ Connect with me:
  <a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
   <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Imalsha Liyanage | Twitter" height="30" width="40" />
 </a> 
- [<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="40" >](https://stackoverflow.com/users/17995557/imalsha-liyanage)
+ <a href="https://stackoverflow.com/users/17995557/imalsha-liyanage" target="_blank">
+ <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="40" />
+ </a>
 <!--  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
