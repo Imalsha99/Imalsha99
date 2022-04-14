@@ -30,12 +30,12 @@
   <a href="https://www.linkedin.com/in/imalshaliyanage/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
+  <a href="facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      alt="Imalsha Liyanage" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/imalshashehanil1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="Imalsha Liyanage" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
