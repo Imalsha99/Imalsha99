@@ -15,12 +15,12 @@
 </a>
 
 
--👀 I’m interested in Web Development and Graphic Designing.
--🌱 I’m currently a second year undergraduate.
--💞️ I’m looking to collaborate on various projects in order to enhance my knowledge on Web Development.
--📫 How to reach me by @imalshashehaniliyanage@gmail.com
+- 👀 I’m interested in Web Development and Graphic Designing.
+- 🌱 I’m currently a second year undergraduate.
+- 💞️ I’m looking to collaborate on various projects in order to enhance my knowledge on Web Development.
+- 📫 How to reach me by @imalshashehaniliyanage@gmail.com
 
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
