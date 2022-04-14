@@ -14,13 +14,13 @@
 <a target="_blank">
 
 
-  <img align="right" height="200" width="320" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
  
 </a>
 
-- 🎓 Second year undergraduate at the Faculty of Information technology, University of Moratuwa.
-- 💡  Interested in Web Development and Graphic Designing. 
-- 🔭 Currently working on an Educational Institution Management System named "Modulo".
+- 🎓 Second year undergraduate at Faculty of Information Technology, University of Moratuwa.
+- 💡   Interested in Web Development and Graphic Designing. 
+- 📚 Currently working on an Educational Institution Management System named "Modulo".
 - 💻 Learning Dotnet 6.0 these days.
 - 🚀 Looking forward to collaborate on various projects in order to enhance knowledge on Web Development.
 - 🎼 Enjoys listening to music.
