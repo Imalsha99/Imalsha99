@@ -20,7 +20,6 @@
 - 💞️ I’m looking to collaborate on various projects in order to enhance my knowledge on Web Development.
 - 📫 How to reach me by @imalshashehaniliyanage@gmail.com
 
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
-
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  
 <br/>
 <br/>
