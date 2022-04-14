@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
   </a>
-   &lt;   𝐇𝐞𝐥𝐥𝐨 there 𝚌𝚘𝚍𝚎𝚛𝚜, I am Imalsha Liyanage/&gt;!
+   &lt;   Hello there coders, I am Imalsha Liyanage!/&gt;
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <a target="_blank">
 <!--     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40px" /> -->
@@ -59,7 +59,7 @@ Connect with me:
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h3>Languages and Tools:</h3?
 <br/>
 <br/>
 
