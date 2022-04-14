@@ -18,10 +18,12 @@
  
 </a>
 
-
-- 👀 I’m interested in Web Development and Graphic Designing.
-- 🌱 I’m currently a second year undergraduate.
-- 💞️ I’m looking to collaborate on various projects in order to enhance my knowledge on Web Development.
+- 🎓 Second year undergraduate at the Faculty of Information technology, University of Moratuwa.
+- 💡  Interested in Web Development and Graphic Designing. 
+- 🔭 Currently working on an Educational Institution Management System named "Modulo".
+- 💻 Learning Dotnet 6.0 these days.
+- 🚀 Looking forward to collaborate on various projects in order to enhance knowledge on Web Development.
+- 🎼 Enjoys listening to music.
 
 
 <br/>
