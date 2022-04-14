@@ -44,6 +44,9 @@ Connect with me:
  <a href="mailto:imalshashehaniliyanage@gmail.com" target="blank">
       <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Imalsha Liyanage" height="30" width="40"/>
       </a>
+ <a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
+  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Imalsha Liyanage | Twitter" height="30" width="40" />
+</a> 
 <!--  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
