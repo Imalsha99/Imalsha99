@@ -52,9 +52,6 @@ Connect with me:
  <a href="https://stackoverflow.com/users/17995557/imalsha-liyanage" target="_blank">
  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="30" />
  </a>
-<!--  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 
 <br>
@@ -107,19 +104,13 @@ Connect with me:
 <td width="50%" align="center">
  
  ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Imalsha99&theme=radical&hide_border=false)<br/>
-  
-<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br> -->
-<!--   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" /> -->
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-  
 </td>
 
 <td width="50%" align="center">
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Imalsha99&theme=radical&hide_border=false)<br/>
   
   </td>
 </tr>
