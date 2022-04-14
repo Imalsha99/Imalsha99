@@ -4,7 +4,7 @@
   </a>
    &lt;   𝐇𝐞𝐥𝐥𝐨 there 𝚌𝚘𝚍𝚎𝚛𝚜, I am Imalsha Liyanage/&gt;!
   <a target="_blank">
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40px" />
+<!--     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40px" /> -->
   </a>
 </h1>
 
