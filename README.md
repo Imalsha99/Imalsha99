@@ -14,7 +14,7 @@
 <a target="_blank">
 
 
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" height="200" width="320" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
  
 </a>
 
