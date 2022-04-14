@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://dribbble.com/shots/7466903-Hello-Dribbble/attachments/307954?mode=media" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜, I am Imalsha Liyanage/&gt;!
+   &lt;   𝐇𝐞𝐥𝐥𝐨 there 𝚌𝚘𝚍𝚎𝚛𝚜, I am Imalsha Liyanage/&gt;!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
