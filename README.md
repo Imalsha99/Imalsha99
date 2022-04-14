@@ -41,6 +41,9 @@ Connect with me:
   <a href="https://www.hackerrank.com/imalshashehanil1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
+ <a href="mailto:imalshashehaniliyanage@gmail.com" target="blank">
+      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Imalsha Liyanage" height="30" width="40"/>
+      </a>
 <!--  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
