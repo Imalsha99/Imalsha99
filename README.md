@@ -99,23 +99,23 @@ Connect with me:
   
   
   
-<table border="0" align="center">
+<!-- <table border="0" align="center">
 <tr border="0">
-<td width="50%" align="center">
+<td width="50%" align="center"> -->
  
- ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</td>
+<!-- </td>
 
 <td width="50%" align="center">
-
+ -->
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Imalsha99&theme=radical&hide_border=false)<br/>
   
-  </td>
+<!-- </td>
 </tr>
 </table>
-
+ -->
 <br>
 
 
