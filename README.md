@@ -105,9 +105,12 @@ Connect with me:
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Imalsha99&theme=radical&hide_border=false)<br/>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
+<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br> -->
 <!--   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" /> -->
 
 
@@ -123,10 +126,6 @@ Connect with me:
 </table>
 
 <br>
-
-
-
-
 
 
 
