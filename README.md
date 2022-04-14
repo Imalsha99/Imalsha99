@@ -1,8 +1,7 @@
  <h1 align="center">
   <a target="_blank">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-  </a>
-   &lt;Hello there coders, I am Imalsha Liyanage!/&gt;
+  </a>&lt;Hello there coders, I am Imalsha Liyanage!/&gt;
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <a target="_blank">
 <!--     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40px" /> -->
@@ -10,9 +9,7 @@
 </h1>
 
 <br/>
-<br/>
 <a target="_blank">
-
 
   <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
  
@@ -89,6 +86,9 @@ Connect with me:
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"></code>
+<code> <a href="https://git-scm.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a></code>
 
 <br/>
 
