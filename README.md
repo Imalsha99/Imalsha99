@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
   </a>
-   &lt; Hello there coders, I am Imalsha Liyanage!/&gt;
+   &lt;Hello there coders, I am Imalsha Liyanage!/&gt;
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <a target="_blank">
 <!--     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40px" /> -->
