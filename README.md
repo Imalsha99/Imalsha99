@@ -33,7 +33,7 @@ Connect with me:
 </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/imalshaliyanage/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
   <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
