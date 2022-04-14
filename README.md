@@ -120,4 +120,13 @@ Connect with me:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
+
+<!-- Visitor count -->
+<div align="center">
+<h3 align="center">Visitor Count: </h3> 
+
+![Visitor Count](https://profile-counter.glitch.me/Imalsha99/count.svg)
+
+ </div>
+
               
