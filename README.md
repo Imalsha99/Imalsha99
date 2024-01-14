@@ -15,8 +15,8 @@
  
 </a>
 
-- 🎓 Third year undergraduate at Faculty of Information Technology, University of Moratuwa.
-- 💡   Interested in Web Development and Graphic Designing. 
+- 🎓 Final year undergraduate at Faculty of Information Technology, University of Moratuwa.
+- 💡  Interested in Web Development and Graphic Designing. 
 - 🚀 Looking forward to collaborate on various projects in order to enhance knowledge on Web Development.
 - 🎼 Enjoys listening to music.
 
